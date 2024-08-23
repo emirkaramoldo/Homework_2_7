@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Homework_2_7</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="my_map_api_key">AIzaSyDcqAFGyW-dza-MKIvUAEbkg5e6HvWYELI</string>
+</resources>
